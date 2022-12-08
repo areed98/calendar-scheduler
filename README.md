@@ -23,7 +23,8 @@
 ---
   ## [Usage](#table-of-contents)
 
-  Usage of this application is done through a web browser, by clicking on the event blocks, typing in your event, and then saving.  If you need to remove an event, you can delete them all at once from the trash can at the bottom.
+  Usage of this application is done through a web browser, by clicking on the event blocks, typing in your event, and then saving.  If you need to remove an event, you can delete them all at once from the trash can at the bottom.  You may use this link to access the webpage: [Calendar Scheduler](https://areed98.github.io/calendar-scheduler/)
+
   ![Preview of website](./assets/images/ZjKMLn2.png)
 
 ---
