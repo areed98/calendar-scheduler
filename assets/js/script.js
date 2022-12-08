@@ -28,7 +28,7 @@ var rowCreator = function() {
         // Get the hour
         var getHour = moment().hour();
 
-        // Loop
+        // Loop (Thanks to Brayden for letting me check out his implementation of the loop.  Helped a lot.)
         $(".block").each(function () {
             var hourRow = parseInt($(this).attr("id").split("hour")[1]);
             // Change class for the rows, when they are past, present, and future.
